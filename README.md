@@ -1,6 +1,6 @@
 # Funky Maker: Guide
 
-## [LEE LA GUIA](https://funkincrew.github.io/funkin-modding-docs/)
+## [LEE LA GUIA](https://github.com/AbelitoGamer/Funky-Guide/title-page.html)
 
 ## Contribuciones
 
