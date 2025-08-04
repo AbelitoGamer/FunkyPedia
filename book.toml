@@ -9,3 +9,4 @@ title = "Funky Maker: Guide"
 [output.html]
 git-repository-url = "https://github.com/AbelitoGamer/Funky-Guide/tree/main/"
 edit-url-template = "https://github.com/AbelitoGamer/Funky-Guide/edit/main/{path}"
+[output.markdown]
