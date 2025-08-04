@@ -1,4 +1,4 @@
-# Preparar tus Assets
+# Tipos de Asset
 
 `Assets` es el nombre que se le da a todos los archivos que se usan en tu nivel.
 

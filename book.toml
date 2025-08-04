@@ -1,5 +1,11 @@
 [book]
-authors = ["Abel"]
-language = "en"
+authors = ["AbelitoGamer"]
+language = "es"
+multilingual = false
 src = "src"
-title = "Funky Guide"
+title = "Funky Maker: Guide"
+
+
+[output.html]
+git-repository-url = "https://github.com/AbelitoGamer/Funky-Guide/tree/main/"
+edit-url-template = "https://github.com/AbelitoGamer/Funky-Guide/edit/main/{path}"
