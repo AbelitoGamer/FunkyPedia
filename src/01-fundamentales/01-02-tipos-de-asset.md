@@ -2,7 +2,7 @@
 
 `Assets` es el nombre que se le da a todos los archivos que se usan en tu nivel.
 
-Los tipos de `Assets` que te veras usando para crear tu nivel son los siguientes:
+Los tipos de `Assets` que te veras usando para crear tu nivel son los siguientes: 
 
 - `Musica`: Un archivo de Musica, que contiene la cancion que usa tu nivel. Los formatos admitidos son:
     - .ogg
