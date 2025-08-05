@@ -24,4 +24,4 @@ Si lo deseas, puedes revisar el chart usando los botones de `ENEMIGO` y `JUGADOR
 
 Si quieres probar tu canción, pulsa el botón de retroceso para volver a la pantalla de `Level Data` y selecciona el botón de **Jugar**. Como todavía no hemos importado nuestros assets visuales, el juego utilizará los suyos por defecto, lo cual será suficiente para que puedas jugar la canción con algo más que una pantalla negra.
 
-Sigue al [siguiente paso](01-guia-de-inicio/01-02-importar-los-graficos) para aprender a importar todos los graficos que usaremos en nuestro nivel.
+Sigue al [siguiente paso](01-02-importar-los-graficos) para aprender a importar todos los graficos que usaremos en nuestro nivel.
