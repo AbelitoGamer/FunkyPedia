@@ -2,7 +2,11 @@
 
 [Funky Maker: Mobile!](title-page.md)
 
-# Primeros pasos
-- [Fundamentales](01-fundamentales/01-00-fundamentales.md)
-    - [Crear un nivel](01-fundamentales/01-01-crear-un-nivel.md)
-    - [WIP: Tipos de asset](01-fundamentales/01-02-tipos-de-asset.md)
+# Summary
+
+[Introducción](intro.md)
+
+- [Guía de inicio](01-guia-de-inicio/01-00-guia-de-inicio)
+  - [Musica y Chart](01-guia-de-inicio/01-01-musica-y-chart)
+  - Importar los graficos
+  - Ajustar la escena
