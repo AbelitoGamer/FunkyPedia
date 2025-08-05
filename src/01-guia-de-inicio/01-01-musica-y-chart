@@ -10,11 +10,11 @@ Después de eso, la app te pedirá introducir los valores de **BPM** y **NPB** p
 
 Aparecerán **cuatro nuevos botones** en la pantalla, pero por ahora solo nos interesa este:
 
-![Chart editor button](static/images/chart-editor-button.png)
+![Chart editor button](assets/images/chart-editor-button.png)
 
 Pulsar este botón te llevará al `Chart Editor`. Nuestro siguiente paso será **importar el chart**, para que el juego pueda leer toda su información, incluyendo el mapeo y otros datos importantes como el BPM que omitimos antes. Para hacerlo, pulsa el botón de importar desde esta misma pantalla:
 
-![Chart import button](static/images/chart-import-button.png)
+![Chart import button](assets/images/chart-import-button.png)
 
 Se abrirá un submenú desde el cual deberás pulsar el botón que dice **"(import .json)"**. Esto abrirá nuevamente tu explorador de archivos. El chart se encuentra en la misma carpeta donde encontraste la música del nivel, y su nombre es `Lit Up Chart.json`. Una vez lo selecciones, notarás que el marcador de posición de la canción se mueve más rápido. Esto se debe a que ahora el juego ha cargado el BPM real de la canción, y también ha calculado el **NPB ideal** para su chart.
 
