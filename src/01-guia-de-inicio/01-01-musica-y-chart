@@ -4,7 +4,7 @@ Para empezar con el proceso de creación, primero necesitas haber creado tu nive
 
 Como en todo juego rítmico, un nivel tiene **dos elementos principales** que guían su jugabilidad: una **canción** y un **chart** que la acompaña. Así pues, el primer paso para crear esta adaptación de `Lit Up` será añadir la canción y su respectivo chart.
 
-Al entrar por primera vez a tu nivel, verás una pantalla mayormente vacía con un botón que te pedirá seleccionar la música. A esta pantalla la llamaremos `Level Data`. Al pulsar el botón, se abrirá tu explorador de archivos, desde donde deberás buscar la carpeta donde colocaste los contenidos del archivo ZIP de assets del nivel[^ZIP]. Una vez localizada, entra y verás tres carpetas. La que nos interesa en este momento es la carpeta **Music**. Selecciona el archivo `Lit Up.ogg`.
+Al entrar por primera vez a tu nivel, verás una pantalla mayormente vacía con un botón que te pedirá seleccionar la música. A esta pantalla la llamaremos `Level Data`. Al pulsar el botón, se abrirá tu explorador de archivos, desde donde deberás buscar la carpeta donde colocaste los contenidos del archivo ZIP de assets del nivel. Una vez localizada, entra y verás tres carpetas. La que nos interesa en este momento es la carpeta **Music**. Selecciona el archivo `Lit Up.ogg`.
 
 Después de eso, la app te pedirá introducir los valores de **BPM** y **NPB** para la canción. Por suerte, podemos ignorar estos valores y simplemente pulsar **OK**, ya que importaremos un chart que sobrescribirá esta información con los valores correctos para la canción.
 
@@ -25,5 +25,3 @@ Si lo deseas, puedes revisar el chart usando los botones de `ENEMIGO` y `JUGADOR
 Si quieres probar tu canción, pulsa el botón de retroceso para volver a la pantalla de `Level Data` y selecciona el botón de **Jugar**. Como todavía no hemos importado nuestros assets visuales, el juego utilizará los suyos por defecto, lo cual será suficiente para que puedas jugar la canción con algo más que una pantalla negra.
 
 Sigue al [siguiente paso](01-guia-de-inicio/01-02-importar-los-graficos) para aprender a importar todos los graficos que usaremos en nuestro nivel.
-
-[^ZIP] Descarga el ZIP con los assets a usar en esta adaptacion desde [Guía de inicio](01-guia-de-inicio/01-00-guia-de-inicio)
