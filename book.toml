@@ -3,9 +3,9 @@ authors = ["AbelitoGamer"]
 language = "es"
 multilingual = false
 src = "src"
-title = "Funky Maker: Guide"
+title = "FunkyPedia"
 
 
 [output.html]
-git-repository-url = "https://github.com/AbelitoGamer/Funky-Guide/tree/main/"
-edit-url-template = "https://github.com/AbelitoGamer/Funky-Guide/edit/main/{path}"
+git-repository-url = "https://github.com/AbelitoGamer/FunkyPedia/tree/main/"
+edit-url-template = "https://github.com/AbelitoGamer/FunkyPedia/edit/main/{path}"
