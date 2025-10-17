@@ -4,4 +4,4 @@ Ejemplo de categoria. En esta categoria, claramente, habrian personajes creados 
 
 Puedo linkear dichos personajes asi.
 
-  - [Abelito](01-abelitogamer/01-01-abelito.md)
+  - [Abelito](01-01-abelito.md)
